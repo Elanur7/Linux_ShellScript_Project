@@ -6,7 +6,7 @@
 
 ## Projede Kullanılan Teknolojiler
 
-#### 
+#### Shell
 
 ## Nasıl Çalışır?
 
