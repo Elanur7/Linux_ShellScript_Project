@@ -15,7 +15,7 @@
   Arayüz ekranında çalıştırmak istenilen komut seçilir ve tamama basılır ise ekrana gelen arayüzde linux makinanızın bilgisini görebilirsiniz._
   
 ## _Örnek Görüntülerle Anlatım_
- _Terminale bash linux.sh yazınca ekrana gelen arayüz_
+ _Terminale bash linux.sh yazınca ekrana gelen arayüz görselde bulunmaktadır._
  
 <p align="center" >
   <img width="500" height="300" src="https://github.com/Elanur7/Linux_GUI_Project/blob/main/Linux-G%C3%B6r%C3%BCnt%C3%BCler/Linux_linux.sh_Aray%C3%BCz.PNG"/>
