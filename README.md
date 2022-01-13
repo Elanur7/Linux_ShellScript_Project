@@ -23,4 +23,4 @@
 
  _Ekrana gelen arayüzden istenilen komut seçilir. Seçilen komut makinenizdeki bilgileri ekrana getirir. Görsellerde seçilen bazı komutların makinedeki bilgileri listelemiş hali bulunmaktadır._
  
- <img src="https://github.com/Elanur7/Linux_GUI_Project/blob/main/Linux-G%C3%B6r%C3%BCnt%C3%BCler/Linux-lscpu.PNG" width="420" height="300"/> <img src="https://github.com/Elanur7/Linux_GUI_Project/blob/main/Linux-G%C3%B6r%C3%BCnt%C3%BCler/Linux-cat_proc_cpuinfo.PNG" width="420" height="300"/> 
+ <img src="https://github.com/Elanur7/Linux_GUI_Project/blob/main/Linux-G%C3%B6r%C3%BCnt%C3%BCler/Linux-lscpu.PNG" width="440" height="300"/> <img src="https://github.com/Elanur7/Linux_GUI_Project/blob/main/Linux-G%C3%B6r%C3%BCnt%C3%BCler/Linux-cat_proc_cpuinfo.PNG" width="440" height="300"/> 
