@@ -2,7 +2,7 @@
 
 ## Projenin Amacı
 
-#### Linux makinesinin sistem ve donanım bilgilerini görüntüleyecek uygulama geliştirme.
+#### Uygulamanın görsel arayüzü için Zenity kütüphanesi kullanarak linux bash script dili ile uygulama geliştirmek.
 
 ## Projede Kullanılan Teknolojiler
 
