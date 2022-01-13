@@ -1,4 +1,4 @@
-# _Linux_GUI_Project_
+# _Linux_ShellScript_Project_
 
   _Linux makinesinin sistem ve donanım bilgilerini görüntüleme._
 
