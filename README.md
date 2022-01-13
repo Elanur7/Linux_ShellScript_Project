@@ -12,4 +12,4 @@
 
 #### Terminale bash linux.sh yazarak görsel arayüz ekranı çalıştırılır. Arayüz ekranında çalıştırmak istenilen komut seçilir ve tamama basılır ise ekrana gelen arayüzde linux makinanızın bilgisini görebilirsiniz.
 
-## Projeden Bazı Kesitler
+##
