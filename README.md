@@ -12,7 +12,7 @@
 
 ## _Nasıl Çalışır?_
   _Terminale bash linux.sh yazarak görsel arayüz ekranı çalıştırılır. 
-  Arayüz ekranında çalıştırmak istenilen komut seçilir ve tamama basılır ise ekrana gelen arayüzde linux makinanızın bilgisini görebilirsiniz._
+  Arayüz ekranında çalıştırmak istenilen komut seçildikten sonra ekrana gelen arayüzde linux makinanızın bilgisini görebilirsiniz._
   
 ## _Örnek Görsellerle Anlatım_
  _Terminale bash linux.sh yazınca ekrana gelen arayüz görselde bulunmaktadır._
